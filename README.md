@@ -1,8 +1,22 @@
+<!--
+ * @Author: WuDaoTingFeng.yzh 2683849644@qq.com
+ * @Date: 2023-08-29 14:09:54
+ * @LastEditors: WuDaoTingFeng.yzh 2683849644@qq.com
+ * @LastEditTime: 2023-08-29 15:53:36
+ * @FilePath: \olreact_yzh\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+## 样式命名规范：
+G-xx： 表示全局样式，用来定义公用样式。
+
+P-xx: 表示页面样式，用来设置页面的背景色、尺寸、定制化调整在此页面的组件样式。
+
+M-xx: 表示组件样式，专注组件本身样式。
 
 In the project directory, you can run:
 
